@@ -1,4 +1,4 @@
-# :wave: The Basics of Git and GitHub 
+# :wave: My Submission with Modified Heading
 
 ## 🤓 Course overview and learning outcomes 
 
